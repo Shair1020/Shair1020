@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Dechains as a Associate Software Engineer<br>🌱 I’m currently learning Node.Js , MS Sql Server , Backend and Blockchain<br>💬 Ask me about React , and MERN<br>⚡ Fun fact : I'm a Cricket Fan
+🔭 I’m currently working at Teresol Pvt Ltd as a Senior Software Design Engineer<br>🌱 I’m currently learning Node.Js , MS Sql Server , Backend and Blockchain<br>💬 Ask me about React , and MERN<br>⚡ Fun fact : I'm a Cricket Fan
 
 
 ## 🌐 Socials:
